@@ -132,6 +132,9 @@
         <div class="periodical">
           {{ entry.note | strip }}
         </div>
+        {% if entry.doi %}
+        <div class="doi">doi: <a href="https://dx.doi.org/{{ entry.doi }}">{{ entry.doi }}</a></div>
+        {% endif %}      
 
           <!-- Links/Buttons -->
           <div class="links">
@@ -141,7 +144,7 @@
           {%- if entry.arxiv %}
             <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
           {%- endif %}
-          {%- if entry.bibtex_show %}
+          {%- if entry.bibtex %}
             <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
           {%- endif %}
           {%- if entry.html %}
@@ -184,6 +187,9 @@
           {%- if entry.website %}
             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
           {%- endif %}
+          {% if entry.youtube %}
+            <a href="{{ entry.youtube }}" class="btn btn-sm z-depth-0" role="button">YouTube</a>
+          {% endif %}          
           </div>
           {% if site.badges %}
           <div class="badges">
@@ -203,7 +209,7 @@
           </div>
           {%- endif -%}
 
-          {% if entry.bibtex_show -%}
+          {% if entry.bibtex -%}
           <!-- Hidden bibtex block -->
           <div class="bibtex hidden">
             {% highlight bibtex %}{{ entry.bibtex | hideCustomBibtex }}{% endhighlight %}
