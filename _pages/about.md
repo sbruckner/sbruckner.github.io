@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Professor, [Chair of Visual Analytics](https://vcg.informatik.uni-rostock.de/), University of Rostock, Germany.
+subtitle: Professor, Chair of Visual Analytics, University of Rostock, Germany.
 
 profile:
   align: right
@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a visualization researcher and professor at the University of Rostock, where I head the Chair of Visual Analytics at the Institute for Visual and Analytic Computing since February 2023. Previously, I was professor of visualization at the Department of Informatics of the University of Bergen in Norway. I investigate methods for gaining insight into complex data to further scientific understanding and discovery, medical diagnosis and treatment, and engineering, as well as techniques for communicating these findings to the public. Building on these foundations, my current interests include the development of novel interactive approaches for the inquiry of large-scale heterogeneous data spaces in data-driven science.
+I am a visualization researcher and professor at the University of Rostock, where I head the [Chair of Visual Analytics](https://vcg.informatik.uni-rostock.de/) at the Institute for Visual and Analytic Computing since February 2023. Previously, I was professor of visualization at the [Department of Informatics](https://vis.uib.no/team/bruckner/) of the University of Bergen in Norway. I investigate methods for gaining insight into complex data to further scientific understanding and discovery, medical diagnosis and treatment, and engineering, as well as techniques for communicating these findings to the public. Building on these foundations, my current interests include the development of novel interactive approaches for the inquiry of large-scale heterogeneous data spaces in data-driven science.
 
 Before my professorial appointment in Bergen in 2013, I was an assistant professor at the TU Wien, Austria where I also received my Ph.D. in Computer Science in 2008 and was awarded habilitation degree (venia docendi) in Practical Computer Science in 2012.
 
