@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Professor, Chair of Visual Analytics, University of Rostock, Germany.
+subtitle: Professor, [Chair of Visual Analytics](https://vcg.informatik.uni-rostock.de/), University of Rostock, Germany.
 
 profile:
   align: right
