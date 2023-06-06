@@ -7,7 +7,7 @@ logo: vca-cubes-logo.svg # displayed next to the name
 first_name: Stefan
 middle_name:
 last_name: Bruckner
-email: stefan.bruckner@gmail,com
+email: stefan.bruckner@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Stefan Bruckner, visualization researcher.
 footer_text: >
