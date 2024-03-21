@@ -10,7 +10,10 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 {% assign years_start = 2003 %}
+{% comment %}
 {% assign years_end = site.time | date: '%Y'  %}
+{% endcomment %}
+{% assign years_end = 2023  %}
 {% for y in (years_start..years_end) reversed %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
