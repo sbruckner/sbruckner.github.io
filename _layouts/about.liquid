@@ -4,6 +4,7 @@ layout: default
 <div class="post">
   <header class="post-header">
     <h1 class="post-title">
+      <img class="logo" src="{{ site.logo | prepend: '/assets/img/' | relative_url}}">
       {% if site.title == 'blank' %}
         <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
         {{ site.last_name }}
