@@ -441,14 +441,14 @@ ninja.data = [{
         title: 'ACM DL',
         section: 'Socials',
         handler: () => {
-          window.open("https://dl.acm.org/profile/dl.acm.org/profile/81100294147/", "_blank");
+          window.open("https://dl.acm.org/profile/81100294147/", "_blank");
         },
       },{
         id: 'social-dblp',
         title: 'DBLP',
         section: 'Socials',
         handler: () => {
-          window.open("dblp.org/pid/80/3704.html", "_blank");
+          window.open("https://dblp.org/pid/80/3704.html", "_blank");
         },
       },{
         id: 'social-email',
@@ -462,7 +462,7 @@ ninja.data = [{
         title: 'IEEE Xplore',
         section: 'Socials',
         handler: () => {
-          window.open("https://ieeexplore.ieee.org/author/ieeexplore.ieee.org/author/37265895700/", "_blank");
+          window.open("https://ieeexplore.ieee.org/author/37265895700/", "_blank");
         },
       },{
         id: 'social-linkedin',
@@ -493,11 +493,18 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=23uJZDoAAAAJ", "_blank");
         },
       },{
+        id: 'social-work',
+        title: 'Work',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://vca.informatik.uni-rostock.de/", "_blank");
+        },
+      },{
         id: 'social-youtube',
         title: 'YouTube',
         section: 'Socials',
         handler: () => {
-          window.open("https://youtube.com/@youtube.com/@StefanBruckner", "_blank");
+          window.open("https://youtube.com/@StefanBruckner", "_blank");
         },
       },{
       id: 'light-theme',
