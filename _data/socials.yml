@@ -41,9 +41,9 @@ scholar_userid: 23uJZDoAAAAJ # your Google Scholar ID
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
-# work_url: # work page URL
+work_url: https://vca.informatik.uni-rostock.de/ # work page URL
 # x_username: # your X handle
-youtube_id: @StefanBruckner # your youtube channel id (youtube.com/@<youtube_id>)
+youtube_id: StefanBruckner # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 # custom_social: # can be any name here other than the ones already defined above
 #  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
