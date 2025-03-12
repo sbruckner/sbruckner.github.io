@@ -2,17 +2,17 @@
 # the commented lines are the default social media links supported by the template
 # the socials will be displayed in the order they are defined here
 
-acm_id: dl.acm.org/profile/81100294147 # your dl.acm.org/profile/id
+acm_id: 81100294147 # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
-dblp_url: dblp.org/pid/80/3704.html # your DBLP profile url
+dblp_url: https://dblp.org/pid/80/3704.html # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
 email: stefan.bruckner@uni-rostock.de # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 # github_username: # your GitHub user name
 # gitlab_username: # your GitLab user name
-ieee_id: ieeexplore.ieee.org/author/37265895700 # your ieeexplore.ieee.org/author/id
+ieee_id: 37265895700 # your ieeexplore.ieee.org/author/id
 # inspirehep_id: # Inspire HEP author ID
 # instagram_id: # your instagram id
 # kaggle_id: # your kaggle id
@@ -29,7 +29,7 @@ orcid_id: 0000-0002-0885-8402 # your ORCID ID
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
-rss_icon: true # set to true to show the RSS icon
+rss_icon: false # set to true to show the RSS icon
 scholar_userid: 23uJZDoAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
@@ -43,7 +43,7 @@ scholar_userid: 23uJZDoAAAAJ # your Google Scholar ID
 # wikipedia_id: # your wikipedia id (Case sensitive)
 # work_url: # work page URL
 # x_username: # your X handle
-youtube_id: youtube.com/@StefanBruckner # your youtube channel id (youtube.com/@<youtube_id>)
+youtube_id: @StefanBruckner # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 # custom_social: # can be any name here other than the ones already defined above
 #  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
