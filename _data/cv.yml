@@ -53,16 +53,167 @@
         - "Degree: Diplom-Ingenieur (Dipl.-Ing.)"
         - "Master's Thesis: Efficient Volume Visualization of Large Medical Datasets"
 
-#- title: Honors and Awards
-#  type: time_table
-#  contents:
-#    - year: 1921
-#      items: 
-#        - Nobel Prize in Physics 
-#        - Matteucci Medal
-#    - year: 2029
-#      items: 
-#        - Max Planck Medal
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2023
+      items: 
+        - Dirk Bartz Prize for Visual Computing in Medicine and Life Sciences 2023 (1<sup>st</sup> place)
+    - year: 2022
+      items: 
+        - VMV Best Paper Award
+        - VINCI Best Short Paper Award
+        - Bio+MedVis Best Redesign Challenge Award Award
+        - VCBM Best Paper Honorable Mention
+    - year: 2021
+      items: 
+        - VCBM Best Paper Honorable Mention
+        - IEEE TVCG Best Reviewer Honorable Mention
+    - year: 2020
+      items: 
+        - IEEE TVCG Best Reviewer Honorable Mention
+        - CGI Best Interdisciplinary Presentation Award
+    - year: 2019
+      items: 
+        - EuroVis Best Poster Award
+        - Dirk Bartz Prize for Visual Computing in Medicine 2019 (2<sup>nd</sup> place)
+    - year: 2018
+      items: 
+        - Computers & Graphics Associate Editor of the Year
+        - ACM Distinguished Speaker
+        - IEEE SciVis Best Paper Honorable Mention
+    - year: 2017
+      items: 
+        - SCCG Best Paper Award
+    - year: 2015
+      items: 
+        - IEEE TVCG Best Reviewer Award
+        - SCCG Best Paper Award
+    - year: 2014
+      items: 
+        - VCBM Best Paper Award
+        - VCBM Best Paper Honorable Mention
+    - year: 2013
+      items: 
+        - SCCG Best Paper Award 2013
+    - year: 2012
+      items: 
+        - Eurographics Recognition of Service Award
+    - year: 2011
+      items: 
+        - Eurographics Young Researcher Award
+    - year: 2010
+      items: 
+        - EuroVis Best Paper Award
+    - year: 2007
+      items: 
+        - Eurographics 3<sup>rd</sup> Best Paper Award
+    - year: 2006
+      items: 
+        - Karl-Heinz Höhne Award for Medical Visualization
+    - year: 2004
+      items: 
+        - CESCG Best Paper Award
+        - CESCG Best Presentation Award
+
+- title: Editorial Boards
+  type: time_table
+  contents:
+    - year: since 2022
+      items: Associate Editor, IEEE Transactions on Visualization and Computer Graphics
+    - year: since 2014
+      items: Associate Editor, Computers & Graphics
+
+- title: Chairing and Organization
+  type: time_table
+  contents:
+    - year: 2024
+      items: 
+        - IEEE VIS Workshop Chair
+    - year: 2023
+      items: 
+        - EuroVis STAR Chair
+        - IEEE VIS Workshop Chair
+    - year: 2022
+      items: 
+        - EuroVis STAR Chair
+        - IEEE VIS Tutorial Chair
+    - year: 2021
+      items: 
+        - IEEE VIS Tutorial Chair
+    - year: 2019
+      items: 
+        - Eurographics Medical Prize Chair
+    - year: 2018
+      items: 
+        - IEEE PacificVis Paper Chair
+    - year: 2017
+      items: 
+        - Eurographics Medical Prize Chair
+        - VCBM Paper Chair
+    - year: 2016
+      items: 
+        - VCBM Paper Chair
+    - year: 2012
+      items: 
+        - EuroVis Paper Chair
+
+- title: Juries and Award Committees
+  type: time_table
+  contents:
+    - year: 2025
+      items: 
+        - IEEE PacificVis Best Journal Paper Committee
+    - year: 2024
+      items: 
+        - VCBM Best Short Paper Committee
+    - year: 2023
+      items: 
+        - IEEE VIS Paper Committee
+        - Karl-Heinz Höhne Award for Medical Visualization Jury Member
+    - year: 2022
+      items: 
+        - Eurographics Best PhD Award Committee
+    - year: 2021
+      items: 
+        - Eurographics Best PhD Award Committee
+    - year: 2020
+      items: 
+        - EuroVis Best PhD Award Committee
+        - VCBM Best Paper Committee
+        - Karl-Heinz Höhne Award for Medical Visualization Jury Member
+    - year: 2018
+      items: 
+        - Karl-Heinz Höhne Award for Medical Visualization Jury Member
+    - year: 2016
+      items: 
+        - Karl-Heinz Höhne Award for Medical Visualization Jury Member
+    - year: 2014
+      items: 
+        - Karl-Heinz Höhne Award for Medical Visualization Jury Member
+
+- title: Authoritative Bodies
+  type: time_table
+  contents:
+    - year: since 2025
+      items: 
+        - Member of the Study Commission for Computer Science, University of Rostock
+    - year: since 2024
+      items: 
+        - Speaker of the GI (German Informatics Society) Working Group for Visual Computing in Biology and Medicine
+    - year: since 2023
+      items: 
+        - Member of the Steering Committee of the GI (German Informatics Society) Division for Computer Graphics
+    - year: since 2019
+      items: 
+        - Member of the Eurographics Executive Committee
+        - Member of the Eurographcs Workshop Board
+    - year: 2018-2023
+      items: 
+        - Member of the Mohn Medical Imaging and Visualization Centre Leadership Team, University of Bergen
+    - year: 2017-2023
+      items: 
+        - Member of the Department Council for Informatics, University of Bergen
 
 #- title: Academic Interests
 #  type: nested_list
