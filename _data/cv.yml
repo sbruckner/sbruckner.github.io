@@ -63,7 +63,7 @@
       items: 
         - VMV Best Paper Award
         - VINCI Best Short Paper Award
-        - Bio+MedVis Best Redesign Challenge Award Award
+        - Bio+MedVis Best Redesign Challenge Award
         - VCBM Best Paper Honorable Mention
     - year: 2021
       items: 
@@ -71,7 +71,6 @@
         - IEEE TVCG Best Reviewer Honorable Mention
     - year: 2020
       items: 
-        - IEEE TVCG Best Reviewer Honorable Mention
         - CGI Best Interdisciplinary Presentation Award
     - year: 2019
       items: 
@@ -87,8 +86,8 @@
         - SCCG Best Paper Award
     - year: 2015
       items: 
-        - IEEE TVCG Best Reviewer Award
         - SCCG Best Paper Award
+        - IEEE TVCG Best Reviewer Award
     - year: 2014
       items: 
         - VCBM Best Paper Award
@@ -127,6 +126,9 @@
 - title: Chairing and Organization
   type: time_table
   contents:
+    - year: 2025
+      items: 
+        - ACM SIGSIM PADS Special Track Chair on Visualization
     - year: 2024
       items: 
         - IEEE VIS Workshop Chair
@@ -214,6 +216,161 @@
     - year: 2017-2023
       items: 
         - Member of the Department Council for Informatics, University of Bergen
+
+- title: Program Committees
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - IEEE PacificVis Journal Track
+        - IEEE VIS
+
+    - year: 2024
+      items:
+        - IEEE VIS
+        - Eurographics
+        - Eurographics Workshop on Visual Computing for Biology and Medicine
+        - EuroVis Short Papers
+
+    - year: 2023
+      items:
+        - IEEE PacificVis
+        - IEEE VIS
+        - IEEE VIS Short Papers
+
+    - year: 2022
+      items:
+        - IEEE PacificVis
+
+    - year: 2021
+      items:
+        - CAD/Graphics
+        - Computer Graphics International
+        - EuroVis
+        - IEEE VIS
+
+    - year: 2020
+      items:
+        - Computer Graphics International
+        - EuroVis
+        - IEEE PacificVis
+        - IEEE VIS
+
+    - year: 2019
+      items:
+        - ACM Symposium on Virtual Reality Software and Technology
+        - Computer Graphics International
+        - Eurographics Workshop on Visual Computing for Biology and Medicine
+        - EuroVis
+        - IEEE VIS
+        - International Conference on Computational Visual Media
+
+    - year: 2018
+      items:
+        - ACM Symposium on Virtual Reality Software and Technology
+        - Computational Visual Media
+        - Computer Graphics International
+        - Eurographics Workshop on Visual Computing for Biology and Medicine
+        - Pacific Graphics
+
+    - year: 2017
+      items:
+        - ACM SIGGRAPH Asia Symposium on Visualization
+        - CAD/Graphics
+        - Computer Graphics International
+        - EuroVis
+        - Expressive
+        - IEEE PacificVis
+        - Pacific Graphics
+        - Spring Conference on Computer Graphics
+
+    - year: 2016
+      items:
+        - ACM SIGGRAPH Asia Symposium on Visualization
+        - ACM SIGGRAPH Asia Technical Briefs & Posters
+        - Computer Graphics International
+        - Eurographics
+        - EuroVis
+        - Expressive
+        - IEEE PacificVis
+        - IEEE Symposium on Biological Data Visualization
+        - Pacific Graphics
+
+    - year: 2015
+      items:
+        - CAD/Graphics
+        - Computer Graphics International
+        - Digital Heritage
+        - Eurographics
+        - Eurographics Workshop on Visual Computing for Biology and Medicine
+        - EuroVis
+        - Expressive
+        - IEEE PacificVis
+        - IEEE Symposium on Biological Data Visualization
+        - International Conference on Computer Graphics Theory and Applications
+        - International Symposium on Visual Computing
+        - Pacific Graphics
+        - Spring Conference on Computer Graphics
+
+    - year: 2014
+      items:
+        - Computer Graphics International
+        - Eurographics Workshop on Visual Computing for Biology and Medicine
+        - Expressive
+        - IEEE Symposium on Biological Data Visualization
+        - International Conference on Advances in Computer Entertainment Technology
+        - International Conference on Computer Graphics Theory and Applications
+        - International Symposium on Visual Computing
+        - Pacific Graphics
+        - SIGRAD
+
+    - year: 2013
+      items:
+        - Computer Graphics International
+        - Digital Heritage
+        - Eurographics
+        - Expressive
+        - IEEE PacificVis
+        - IEEE VIS
+        - International Conference on Advances in Computer Entertainment Technology
+        - International Conference on Computer Graphics Theory and Applications
+        - International Symposium on Visual Computing
+        - SIGRAD
+
+    - year: 2012
+      items:
+        - Computational Aesthetics
+        - Eurographics
+        - Eurographics Workshop on Visual Computing for Biology and Medicine
+        - IEEE PacificVis
+        - IEEE Symposium on Biological Data Visualization
+        - IEEE VIS
+        - International Conference on Advances in Computer Entertainment Technology
+        - International Conference on Computer Graphics Theory and Applications
+        - International Symposium on Visual Computing
+
+    - year: 2011
+      items:
+        - Computational Aesthetics
+        - EuroVis
+        - IEEE PacificVis
+        - IEEE VIS
+        - International Conference on Advances in Computer Entertainment Technology
+        - International Symposium on Visual Computing
+
+    - year: 2010
+      items:
+        - Computational Aesthetics
+        - EuroVis
+
+    - year: 2009
+      items:
+        - EuroVis
+        - IEEE VIS
+
+    - year: 2008
+      items:
+        - Knowledge-Assisted Visualization
 
 #- title: Academic Interests
 #  type: nested_list
