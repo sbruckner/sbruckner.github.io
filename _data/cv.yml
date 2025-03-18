@@ -13,7 +13,7 @@
   contents:
     - title: Professor of Visual Analytics
       institution: Institute for Visual and Analytic Computing, University of Rostock, Germany
-      year: 2023 - now
+      year: since 2023
 
     - title: Professor of Visualization
       institution: Department of Informatics, University of Bergen, Norway
@@ -119,9 +119,9 @@
   type: time_table
   contents:
     - year: since 2022
-      items: Associate Editor, IEEE Transactions on Visualization and Computer Graphics
+      items: IEEE Transactions on Visualization and Computer Graphics
     - year: since 2014
-      items: Associate Editor, Computers & Graphics
+      items: Computers & Graphics
 
 - title: Chairing and Organization
   type: time_table
@@ -210,10 +210,10 @@
       items: 
         - Member of the Eurographics Executive Committee
         - Member of the Eurographcs Workshop Board
-    - year: 2018-2023
+    - year: 2018 - 2023
       items: 
         - Member of the Mohn Medical Imaging and Visualization Centre Leadership Team, University of Bergen
-    - year: 2017-2023
+    - year: 2017 - 2023
       items: 
         - Member of the Department Council for Informatics, University of Bergen
 
@@ -371,6 +371,48 @@
     - year: 2008
       items:
         - Knowledge-Assisted Visualization
+
+- title: Supervised PhD Theses
+  type: time_table
+  contents:
+    - title: Yngve Sekse Kristiansen
+      institution: University of Bergen, Norway
+      year: 2023
+      description:
+        - "Title: Interactive Semantic and Aesthetic Guidance for Multi-View Visualization Design"
+    - title: Eric Mörth
+      institution: University of Bergen, Norway
+      year: 2023
+      description:
+        - "Title: Scaling Up Medical Visualization: Multi-Modal, Multi-Patient, and Multi-Audience Approaches for Medical Data Exploration, Analysis and Communication"
+        - Co-supervised with Noeska Smit
+    - title: Laura Garrison
+      institution: University of Bergen, Norway
+      year: 2022
+      description:
+        - "Title: From Molecules to the Masses: Visual Exploration, Analysis, and Communication of Human Physiology"
+    - title: Thomas Trautner
+      institution: University of Bergen, Norway
+      year: 2022
+      description:
+        - "Title: Visualization Hybridization with Spatialization Cues"
+    - title: Fabian Bolte
+      institution: University of Bergen, Norway
+      year: 2020
+      description:
+        - "Title: Visualization Space Exploration: Theoretical and Practical Viewpoints"
+    - title: Sergej Stoppel 
+      institution: University of Bergen, Norway
+      year: 2018
+      description:
+        - "Title: Visualization Space Exploration: Theoretical and Practical Viewpoints"
+        - EuroVis Best PhD Award 2019 
+    - title: Peter Mindek 
+      institution: TU Wien, Austria
+      year: 2015
+      description:
+        - "Title: Interactive Integrated Exploration and Management of Visualization Parameters"
+
 
 #- title: Academic Interests
 #  type: nested_list
