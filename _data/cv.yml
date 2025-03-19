@@ -39,19 +39,19 @@
       year: 2012
       description:
         - "Degree: Privatdozent (Priv.-Doz.)"
-        - "Habilitation thesis: Visual Exploration and Analysis of Volumetric Data"
+        - "Habilitation thesis: <a href='/assets/pdf/Bruckner-2012-VEA-Thesis.pdf'>Visual Exploration and Analysis of Volumetric Data</a>"
     - title: PhD in Computer Science
       institution: TU Wien, Austria
       year: 2008
       description:
         - "Degree: Doctor technicae (Dr.techn.)"
-        - "Dissertation: Interactive Illustrative Volume Visualization"
+        - "Dissertation: <a href='/assets/pdf/Bruckner-2008-IIV-Thesis.pdf'>Interactive Illustrative Volume Visualization</a>"
     - title: Master in Computer Science
       institution: TU Wien, Austria
       year: 2004
       description:
         - "Degree: Diplom-Ingenieur (Dipl.-Ing.)"
-        - "Master's Thesis: Efficient Volume Visualization of Large Medical Datasets"
+        - "Master's Thesis: <a href='/assets/pdf/Bruckner-2004-EVV-Thesis.pdf'>Efficient Volume Visualization of Large Medical Datasets</a>"
 
 - title: Honors and Awards
   type: time_table
@@ -375,45 +375,63 @@
 - title: Supervised PhD Theses
   type: time_table
   contents:
+    - title: Christoph Schmidt
+      institution: University of Rostock, Germany
+      year: 2025
+      description:
+        - "Title: <a href='/assets/pdf/Schmidt-2024-CAV-Thesis.pdf'>Characterizing Annotations for Visual Analytics on Clinical Data</a>"
+        - Co-supervised with Heidrun Schumann
     - title: Yngve Sekse Kristiansen
       institution: University of Bergen, Norway
       year: 2023
       description:
-        - "Title: Interactive Semantic and Aesthetic Guidance for Multi-View Visualization Design"
+        - "Title: <a href='/assets/pdf/Kristiansen-2023-ISA-Thesis.pdf'>Interactive Semantic and Aesthetic Guidance for Multi-View Visualization Design</a>"
     - title: Eric Mörth
       institution: University of Bergen, Norway
       year: 2023
       description:
-        - "Title: Scaling Up Medical Visualization: Multi-Modal, Multi-Patient, and Multi-Audience Approaches for Medical Data Exploration, Analysis and Communication"
+        - "Title: <a href='/assets/pdf/Moerth-2022-SMV-Thesis.pdf'>Scaling Up Medical Visualization: Multi-Modal, Multi-Patient, and Multi-Audience Approaches for Medical Data Exploration, Analysis and Communication</a>"
         - Co-supervised with Noeska Smit
     - title: Laura Garrison
       institution: University of Bergen, Norway
       year: 2022
       description:
-        - "Title: From Molecules to the Masses: Visual Exploration, Analysis, and Communication of Human Physiology"
+        - "Title: <a href='/assets/pdf/Garrison-2022-MMV-Thesis.pdf'>From Molecules to the Masses: Visual Exploration, Analysis, and Communication of Human Physiology</a>"
     - title: Thomas Trautner
       institution: University of Bergen, Norway
       year: 2022
       description:
-        - "Title: Visualization Hybridization with Spatialization Cues"
+        - "Title: <a href='/assets/pdf/Trautner-2022-VHS-Thesis.pdf'>Visualization Hybridization with Spatialization Cues</a>"
     - title: Fabian Bolte
       institution: University of Bergen, Norway
       year: 2020
       description:
-        - "Title: Visualization Space Exploration: Theoretical and Practical Viewpoints"
+        - "Title: <a href='/assets/pdf/Bolte-2020-VSE-Thesis.pdf'>Visualization Space Exploration: Theoretical and Practical Viewpoints</a>"
     - title: Sergej Stoppel 
       institution: University of Bergen, Norway
       year: 2018
       description:
-        - "Title: Visualization Space Exploration: Theoretical and Practical Viewpoints"
+        - "Title: <a href='/assets/pdf/Stoppel-2018-UPS-Thesis.pdf'>User-Centric Parameter Specification for Interactive Virtual and Physical Visual Representations</a>"
         - EuroVis Best PhD Award 2019 
+    - title: Johanna Schmidt
+      institution: TU Wien, Austria
+      year: 2016
+      description:
+        - "Title: <a href='/assets/pdf/Schmidt-2016-SCV-Thesis.pdf'>Scalable Comparative Visualization: Visual Analysis of Local Features in Different Dataset Ensembles</a>"
+        - Co-supervised with Eduard Gröller
+    - title: Alexey Karimov
+      institution: TU Wien, Austria
+      year: 2016
+      description:
+        - "Title: <a href='/assets/pdf/Karimov-2016-GIV-Thesis.pdf'>Guided Interactive Volume Editing in Medicine</a>"
+        - Co-supervised with Eduard Gröller
     - title: Peter Mindek 
       institution: TU Wien, Austria
       year: 2015
       description:
-        - "Title: Interactive Integrated Exploration and Management of Visualization Parameters"
+        - "Title: <a href='/assets/pdf/Mindek-2015-IIE-Thesis.pdf'>Interactive Integrated Exploration and Management of Visualization Parameters</a>"
 
-
+#
 #- title: Academic Interests
 #  type: nested_list
 #  contents:
