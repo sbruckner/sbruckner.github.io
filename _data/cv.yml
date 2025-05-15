@@ -129,6 +129,7 @@
     - year: 2025
       items: 
         - ACM SIGSIM PADS Special Track Chair on Visualization
+        - Workshop on Visualization, Visual Analytics, and Visual Computing Chair
     - year: 2024
       items: 
         - IEEE VIS Workshop Chair
@@ -166,6 +167,7 @@
     - year: 2025
       items: 
         - IEEE PacificVis Best Journal Paper Committee
+        - EuroVis Best Short Paper Committee
     - year: 2024
       items: 
         - VCBM Best Short Paper Committee
@@ -224,6 +226,8 @@
       items:
         - IEEE PacificVis Journal Track
         - IEEE VIS
+        - International Symposium on Vision, Modeling, and Visualization
+        - Eurographics Workshop on Visual Computing for Biology and Medicine
 
     - year: 2024
       items:
