@@ -56,6 +56,10 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2025
+      items: 
+        - VCBM Best Short Paper Award
+        - IEEE VIS Best Short Paper Honorable Mention
     - year: 2023
       items: 
         - Dirk Bartz Prize for Visual Computing in Medicine and Life Sciences 2023 (1<sup>st</sup> place)
@@ -126,6 +130,9 @@
 - title: Chairing and Organization
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - IEEE VIS Area Paper Chair (Data Transformations)
     - year: 2025
       items: 
         - ACM SIGSIM PADS Special Track Chair on Visualization
@@ -164,6 +171,9 @@
 - title: Juries and Award Committees
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - Head of the EuroVis Best PhD Award Committee
     - year: 2025
       items: 
         - IEEE PacificVis Best Journal Paper Committee
@@ -201,6 +211,8 @@
   contents:
     - year: since 2025
       items: 
+        - Head of the Institute for Visual and Analytic Computing, University of Rostock
+        - Member of the Faculty Council of the Faculty of Computer Science and Electrical Engineering, University of Rostock
         - Member of the Study Commission for Computer Science, University of Rostock
     - year: since 2024
       items: 
@@ -222,6 +234,10 @@
 - title: Program Committees
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - Eurographics
+
     - year: 2025
       items:
         - IEEE PacificVis Journal Track
