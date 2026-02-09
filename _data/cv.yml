@@ -395,6 +395,12 @@
 - title: Supervised PhD Theses
   type: time_table
   contents:
+    - title: Jakub Vašíček
+      institution: University of Bergen, Norway
+      year: 2026
+      description:
+        - "Title: <a href='/assets/pdf/Vasicek-2026-EHP-Thesis.pdf'>Enabling Haplotype-Aware Proteomic Analysis to Better Connect Human Genomes and Proteomes</a>"
+        - Co-supervised with Marc Vaudel and Lukas Käll
     - title: Christoph Schmidt
       institution: University of Rostock, Germany
       year: 2025
@@ -408,7 +414,7 @@
         - "Title: <a href='/assets/pdf/Kristiansen-2023-ISA-Thesis.pdf'>Interactive Semantic and Aesthetic Guidance for Multi-View Visualization Design</a>"
     - title: Eric Mörth
       institution: University of Bergen, Norway
-      year: 2023
+      year: 2022
       description:
         - "Title: <a href='/assets/pdf/Moerth-2022-SMV-Thesis.pdf'>Scaling Up Medical Visualization: Multi-Modal, Multi-Patient, and Multi-Audience Approaches for Medical Data Exploration, Analysis and Communication</a>"
         - Co-supervised with Noeska Smit
